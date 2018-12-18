@@ -1,0 +1,6 @@
+[submodule "Bataille"]
+	path = Bataille
+	url = https://github.com/luzibar/Bataille.git
+[submodule "LecteurDeFichier"]
+	path = LecteurDeFichier
+	url = https://github.com/luzibar/LecteurDeFichier.git
