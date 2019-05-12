@@ -4,3 +4,6 @@
 [submodule "LecteurDeFichier"]
 	path = LecteurDeFichier
 	url = https://github.com/luzibar/LecteurDeFichier.git
+[submodule "DataStructure"]
+	path = DataStructure
+	url = https://github.com/HNTZ/DataStructure
